@@ -41,11 +41,7 @@ public class TestEmp {
 
        employeeMapper.updateByPrimaryKeySelective(new Employee());
     }
-    @Test
-    public void test6(){
 
-       employeeMapper.updateByPrimaryKeySelective(new Employee());
-    }
 
 
 
